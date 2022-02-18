@@ -1,4 +1,4 @@
-  ###   Xin chào Lại là Phong đây <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+  ###   Xin chào, Bin đây <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
 
 <hr>
@@ -21,14 +21,7 @@ A ****  🚀.
 
   <img align="right" alt="GIF" height="250px"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**About Me!**
 
-- 👨🏽‍💻 Sinh Viên Trường Đại Học Điện Lực.
-- 📆 27/07/2001 
-- 📱  0814515062
-- ✈ Thích được đi du lịch và phượt .
-- 📚 Thích được học hỏi nhiều kiến thức và tích lũy kinh nghiệm
-- 📫 Email me at [thanhphongdz2707@gmail.com](mailto:thanhphongdz2707@gmail.com).
 <br>
 
 
@@ -60,4 +53,4 @@ A ****  🚀.
 <p align="center">
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200"></p>
 <hr>
-<p align="center">Copyright © 2021 | Phong</p>
+<p align="center">Copyright © 2021 | Bin</p>
