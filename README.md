@@ -5,7 +5,7 @@
    
 <h3 title="hehehe"> Hey 👋, I'm Thanh !</h3>
 
-<a href="https://www.instagram.com/phong.cubu/">
+<!-- <a href="https://www.instagram.com/phong.cubu/">
   <img align="left" alt="Phong Instagram" width="24px" src="https://www.acuenergie.com/wp-content/uploads/2018/03/color-1.png" />
 </a>
 
@@ -36,7 +36,7 @@
 <img width="50" src="https://media.macosicons.com/parse/files/macOSicons/40ce146e992ba02d42473b9df6907c28_low_res_PyCharm.png">
 <img width="50" src="https://e7.pngegg.com/pngimages/662/600/png-clipart-sublime-text-computer-icons-others-miscellaneous-angle-thumbnail.png">
 <img width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
- </p>
+ </p> -->
  
  <h3>🎉 Stats</h3>
 <p align="center">
