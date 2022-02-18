@@ -3,7 +3,7 @@
 
 <hr>
    
-<h3 title="hehehe"> Hey 👋, I'm Thanh Phong (PhongCuBu)!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Thanh !</h3>
 
 <a href="https://www.instagram.com/phong.cubu/">
   <img align="left" alt="Phong Instagram" width="24px" src="https://www.acuenergie.com/wp-content/uploads/2018/03/color-1.png" />
@@ -14,15 +14,7 @@
 </a>
 
 <br />
-<br />
 
-A ****  🚀.
- 
-
-  <img align="right" alt="GIF" height="250px"  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-
-<br>
 
 
 <br><hr>
