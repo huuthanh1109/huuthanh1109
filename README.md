@@ -1,7 +1,7 @@
-  ###   Xin chào, Bin đây <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+<!--   ###   Xin chào, Bin đây <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
 
-<hr>
+<hr> -->
    
 <h3 title="hehehe"> Hey 👋, I'm Thanh !</h3>
 
